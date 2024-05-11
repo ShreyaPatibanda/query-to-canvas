@@ -1,6 +1,6 @@
 # Bulk Add Notes to Canvas
 
-Contributed JavaScript code to a note-taking app, enabling automated bulk note addition to a .canvas file based on SQL-type [dataview query](https://github.com/blacksmithgu/obsidian-dataview) results in O(1) time.  Used by over 40 users saving them minutes to hours of time. Code located at source.md. Modify the query variable (line 20) to change default query.
+Contributed JavaScript code to a note-taking app (*Obsidian*), enabling automated bulk note addition to a .canvas file based on SQL-type [dataview query](https://github.com/blacksmithgu/obsidian-dataview) results in O(1) time.  Used by over 40 users saving them minutes to hours of time. Code located at source.md. Modify the query variable (line 20) to change default query.
 
 
 
