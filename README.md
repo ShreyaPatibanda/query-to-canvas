@@ -6,7 +6,7 @@ Contributed JavaScript code to a note-taking app, enabling automated bulk note a
 
 https://github.com/ShreyaPatibanda/query-to-canvas/assets/73957016/4f31aae4-673d-4baf-8e91-e6cc95544429
 
-**Must have [dataview community plugin](https://github.com/blacksmithgu/obsidian-dataview) installed or this won't work.
+**Must have [dataview community plugin](https://github.com/blacksmithgu/obsidian-dataview) installed or this won't work.**
 
 Modify the query variable (line 20) to change default query.
 
